@@ -1,0 +1,6 @@
+pyside2
+keras==2.3 
+tensorflow==2.2
+pyqtgraph
+sklearn
+matplotlib

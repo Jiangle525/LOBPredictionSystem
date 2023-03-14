@@ -1,0 +1,1 @@
+option_setting = {'model_name': 'LSTM', 'use_gpu': True, 'params': ['30', '1', '128'], 'metrics': 'accuracy', 'is_remember': True}
